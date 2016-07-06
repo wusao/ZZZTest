@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/com/alibaba/fastjson/1.1.41/fastjson-1.1.41.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/com/alibaba/fastjson/1.1.41/fastjson-1.1.41-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/.m2/repository/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6-sources.jar"/>
+	<classpathentry kind="lib" path="E:/userlib/junit-4.7.jar.zip"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="E:/userlib/GroboUtils.jar" sourcepath="E:/userlib/GroboUtils.jar"/>
+	<classpathentry kind="lib" path="E:/userlib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/userlib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/userlib/fastjson-1.2.4.jar"/>
+	<classpathentry kind="lib" path="E:/userlib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/userlib/httpclient-cache-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/userlib/httpclient-win-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/userlib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="E:/userlib/jce.jar"/>
+	<classpathentry kind="lib" path="E:/userlib/rt.jar"/>
+	<classpathentry kind="lib" path="/jweb_ea_market/target/jweb_ea_market-1.0-SNAPSHOT/WEB-INF/lib/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/userlib/core-3.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/userlib/javase-3.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/userlib/druid-1.0.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

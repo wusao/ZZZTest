@@ -1,0 +1,54 @@
+
+
+[2016-03-23 14-28-37.356]
+[2016-03-23 14-28-37.356]
+Accepted Client:Socket[addr=/127.0.0.1,port=65332,localport=80]
+Accepted Client:Socket[addr=/127.0.0.1,port=65333,localport=80]
+Request HEAD：	GET /pixel?google_nid=zmobile&google_cm&google_sc HTTP/1.1
+Request HEAD：	GET /pixel?google_nid=ZAM&google_sc&google_cm HTTP/1.1
+
+[2016-03-23 14-34-40.663]
+Accepted Client:Socket[addr=/127.0.0.1,port=65533,localport=80]
+
+[2016-03-23 14-34-40.673]
+Accepted Client:Socket[addr=/127.0.0.1,port=65534,localport=80]
+Request HEAD：	GET /pagead/viewthroughconversion/947155934/?random=1458714880654&cv=8&fst=1458714880654&num=1&fmt=1&guid=ON&u_h=1080&u_w=1920&u_ah=1040&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=5&u_nmime=7&data=listing_id%3D249373%3Blisting_pagetype%3Doffer%20detail%3Blisting_totalvalue%3D8100%E5%85%83%2Fm%C2%B2&frm=0&url=http%3A//wh.fang.anjuke.com/loupan/249373.html&ref=http%3A//wh.fang.anjuke.com/map/loupan/%3Ffrom%3Daf_map_fangyuanlist&tiba=%E9%A1%BA%E6%B0%91%E5%AE%9C%E7%9B%9B%E8%8A%B1%E5%9B%AD%EF%BC%8C%E6%AD%A6%E6%B1%89%E9%A1%BA%E6%B0%91%E5%AE%9C%E7%9B%9B%E8%8A%B1 HTTP/1.1
+Request HEAD：	null
+HTTP服务器错误:null
+
+[2016-03-23 16-39-05.312]
+Accepted Client:Socket[addr=/127.0.0.1,port=53659,localport=80]
+Request HEAD：	GET /pagead/viewthroughconversion/947155934/?random=1458722345290&cv=8&fst=1458722345290&num=1&fmt=1&guid=ON&u_h=1080&u_w=1920&u_ah=1040&u_aw=1920&u_cd=24&u_his=5&u_tz=480&u_java=false&u_nplug=5&u_nmime=7&data=listing_id%3D%3Blisting_pagetype%3Dsearchresults%3Blisting_totalvalue%3D&frm=0&url=http%3A//wh.fang.anjuke.com/%3Fp47%3D1&ref=http%3A//wh.fang.anjuke.com/&tiba=%E6%AD%A6%E6%B1%89%E6%96%B0%E6%88%BF%E5%BC%80%E7%9B%98%EF%BC%8C%E6%AD%A6%E6%B1%89%E6%88%BF%E4%BA%A7%E7%BD%91%EF%BC%8C%E6%9C%80 HTTP/1.1
+
+[2016-03-23 16-40-00.798]
+Accepted Client:Socket[addr=/127.0.0.1,port=53714,localport=80]
+Request HEAD：	GET /pagead/viewthroughconversion/947155934/?random=1458722400790&cv=8&fst=1458722400790&num=1&fmt=1&guid=ON&u_h=1080&u_w=1920&u_ah=1040&u_aw=1920&u_cd=24&u_his=1&u_tz=480&u_java=false&u_nplug=5&u_nmime=7&data=listing_id%3D252647%3Blisting_pagetype%3Doffer%20detail%3Blisting_totalvalue%3D6900%E5%85%83%2Fm%C2%B2&frm=0&url=http%3A//wh.fang.anjuke.com/loupan/252647.html%3Ffrom%3DAF_RANK_6&ref=http%3A//wh.fang.anjuke.com/%3Fp47%3D1&tiba=%E4%B8%9C%E5%8E%9F%E6%B9%96%E5%85%89%E9%87%8C%EF%BC%8C%E6%AD%A6%E6%B1%89%E4%B8%9C%E5%8E%9F%E6%B9%96%E5%85%89%E9%87%8C%E6%88%BF HTTP/1.1
+
+[2016-03-24 16-00-56.304]
+Accepted Client:Socket[addr=/127.0.0.1,port=61713,localport=80]
+Request HEAD：	GET /pixel?google_nid=baidu&google_cm HTTP/1.1
+
+[2016-03-24 16-01-01.813]
+Accepted Client:Socket[addr=/127.0.0.1,port=61737,localport=80]
+
+[2016-03-24 16-01-01.815]
+Accepted Client:Socket[addr=/127.0.0.1,port=61738,localport=80]
+Request HEAD：	null
+Request HEAD：	null
+HTTP服务器错误:null
+HTTP服务器错误:null
+
+[2016-03-24 16-01-11.882]
+Accepted Client:Socket[addr=/127.0.0.1,port=61739,localport=80]
+Request HEAD：	null
+HTTP服务器错误:null
+
+
+[2016-03-24 16-01-32.376]
+Accepted Client:Socket[addr=/127.0.0.1,port=61770,localport=80]
+[2016-03-24 16-01-32.376]
+Accepted Client:Socket[addr=/127.0.0.1,port=61771,localport=80]
+Request HEAD：	null
+HTTP服务器错误:null
+Request HEAD：	null
+HTTP服务器错误:null
